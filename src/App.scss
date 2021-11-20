@@ -1,0 +1,145 @@
+
+body{
+    background-color: transparent;
+    
+}
+
+    
+header{
+    position: fixed;
+   top:0;
+   left: 0;
+   right: 0;
+   z-index: 10;
+   
+
+}
+a.nav-link.active{
+    color:white;
+    font-size: 15px;
+    padding: 30px 8px 8px 8px;
+}
+
+ul.navbar-nav.me-auto{
+    margin-top: 500;
+    padding: 0px 0px 0px 900px;
+    
+}
+
+li.a.nav-link.active:hover{
+    background-color: rgb(33, 33, 184);
+    color:black;
+    transform: scale(1.5)
+}
+
+li.nav-item2{
+    color: aqua;
+    margin: 40px;
+
+    right: 50%;
+}
+
+div.container-fluid{
+    height: 60px;
+}
+
+div.control{
+    position: relative;
+    height: 942px;
+    
+}
+
+
+img.gif{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 942px;
+    
+    align-items: center;
+    
+    
+
+}
+
+div.eu{
+    position: relative;
+    top: 200px;  
+    left: 570px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(119, 119, 119);
+    border-radius: 50%;
+    
+   
+}
+
+section{
+    background-color:black;
+    top: 100px;
+    height: 700px;
+     
+
+}
+
+div.row{
+    background-color:rgb(89, 164, 214);
+    height: 500px;
+    right: 0;
+    left: 0; 
+    width: 1530px;
+    top: 100%;
+    bottom: 50%;
+    
+}
+
+div.col-lg-4{
+   padding: 0px 100px 0px 100px;
+
+}
+
+svg.bd-placeholder-img.rounded-circle{
+    margin: 70px 50px 30px 80px;
+}
+
+
+h2.titulop{
+    text-align: center;
+
+}
+
+p.descricao{
+    text-align: center;
+}
+
+a.btn.btn-secondary{
+   margin: 10px 0px 0px 90px;
+}
+
+div.texto{
+    position: relative;
+    height: 500px ;
+    width: 300px;
+    left: 850px;
+    
+    top: 100px;
+}
+
+div.texto2{
+    position: relative;
+   
+    height: 500px ;
+    width: 300px;
+    left: 250px;
+    bottom: 400px;
+    
+}
+
+p.lorem{
+    color:rgb(89, 164, 214);
+}
+
+h3.titulos{
+    color:rgb(89, 164, 214,0.75);
+}
+
